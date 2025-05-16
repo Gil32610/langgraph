@@ -1,0 +1,9 @@
+pip install -U langgraph "langchain[anthropic]"
+pip install -U "langchain[anthropic]"
+pip install -U langgraph langsmith
+pip install -U "langchain[openai]"
+pip install -U "langchain[google-genai]"
+pip install -U "langchain[aws]"
+pip install -U langchain-tavily
+
+

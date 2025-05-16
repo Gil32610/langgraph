@@ -1,0 +1,7 @@
+langgraph langchain[anthropic]"
+langchain[anthropic]
+langgraph langsmith
+langchain[openai]
+langchain[google-genai]
+langchain[aws]
+langchain-tavily
